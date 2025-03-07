@@ -9,3 +9,8 @@
 3. pip install opencv-python
 4. pip install numpy
 5. pip install cmake
+6. pip install python-docx
+7. pip install openpyxl
+8. pip install PyQt6
+
+
